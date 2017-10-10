@@ -9,6 +9,6 @@ class IndexController extends Controller{
 
 	public function actionIndex()
 	{
-		echo 123;
+		echo "这是主页";
 	}
 }
