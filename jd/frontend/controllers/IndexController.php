@@ -9,6 +9,7 @@ class IndexController extends Controller{
 
 	public function actionIndex()
 	{
-		echo "这是主页";
+		// echo "刘政 is sb";
+		
 	}
 }
